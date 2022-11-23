@@ -2,7 +2,7 @@
 
 All my currently used dotfiles and wallpapers (non-cringe-edition)
 
-paragraph line 1 WM: bspwm
+<p>paragraph line 1</p> WM: bspwm
 Terminal: alacritty
 Bar: polybar
 
