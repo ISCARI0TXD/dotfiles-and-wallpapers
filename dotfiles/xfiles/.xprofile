@@ -1,0 +1,2 @@
+bash ~/.autostart/mousescript.sh
+xrdb -merge ~/.Xresources
