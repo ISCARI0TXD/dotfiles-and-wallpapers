@@ -2,7 +2,7 @@
 
 # Add this script to your wm startup file.
 
-DIR="$HOME/.config/polybar/tokyo"
+DIR="$HOME/.config/polybar/666"
 
 # Terminate already running bar instances
 killall -q polybar
